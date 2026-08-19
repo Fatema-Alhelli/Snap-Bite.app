@@ -21,6 +21,8 @@ def load_model():
     model.set_classes(ingredients)
     return model
 
+st.camera_input("Take a photo")
+
 uploaded_file = st.file_uploader(
     "Upload a photo of your fridge",
     type=["jpg", "jpeg", "png"]
