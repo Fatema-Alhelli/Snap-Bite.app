@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Machboos",
+    "category": "Gulf Food",
+    "calories": 620,
+    "time": 55,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "rice",
+      "onion",
+      "tomato",
+      "spices"
+    ],
+    "steps": [
+      "Season the chicken.",
+      "Cook onion and tomato with spices.",
+      "Add rice and water.",
+      "Cook until the rice is tender.",
+      "Serve warm with garnish."
+    ],
+    "emoji": "🍗"
+  },
+  {
+    "id": 2,
+    "name": "Bahraini Balaleet",
+    "category": "Gulf Food",
+    "calories": 410,
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      "vermicelli",
+      "egg",
+      "sugar",
+      "cardamom",
+      "saffron"
+    ],
+    "steps": [
+      "Cook the vermicelli.",
+      "Mix with sugar and spices.",
+      "Prepare a thin egg omelette.",
+      "Place the egg on top.",
+      "Serve warm."
+    ],
+    "emoji": "🍜"
+  },
+  {
+    "id": 3,
+    "name": "Hummus",
+    "category": "Gulf Food",
+    "calories": 280,
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      "chickpeas",
+      "tahini",
+      "lemon",
+      "garlic",
+      "olive oil"
+    ],
+    "steps": [
+      "Blend chickpeas and tahini.",
+      "Add lemon and garlic.",
+      "Blend until smooth.",
+      "Top with olive oil.",
+      "Serve with bread."
+    ],
+    "emoji": "🥣"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Biryani",
+    "category": "Indian Food",
+    "calories": 680,
+    "time": 60,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "rice",
+      "onion",
+      "yogurt",
+      "spices"
+    ],
+    "steps": [
+      "Marinate the chicken.",
+      "Cook onions and spices.",
+      "Add chicken and yogurt.",
+      "Layer with cooked rice.",
+      "Steam until ready."
+    ],
+    "emoji": "🍛"
+  },
+  {
+    "id": 5,
+    "name": "Butter Chicken",
+    "category": "Indian Food",
+    "calories": 540,
+    "time": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "tomato",
+      "cream",
+      "butter",
+      "spices"
+    ],
+    "steps": [
+      "Cook the chicken.",
+      "Prepare tomato sauce.",
+      "Add butter and spices.",
+      "Stir in cream.",
+      "Simmer and serve."
+    ],
+    "emoji": "🍛"
+  },
+  {
+    "id": 6,
+    "name": "Vegetable Samosa",
+    "category": "Indian Food",
+    "calories": 260,
+    "time": 35,
+    "difficulty": "Medium",
+    "servings": 6,
+    "ingredients": [
+      "potato",
+      "peas",
+      "onion",
+      "flour",
+      "spices"
+    ],
+    "steps": [
+      "Cook potato and peas.",
+      "Season the filling.",
+      "Wrap in dough.",
+      "Bake or fry until golden.",
+      "Serve with dip."
+    ],
+    "emoji": "🥟"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Fried Rice",
+    "category": "Chinese Food",
+    "calories": 490,
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "egg",
+      "carrot",
+      "soy sauce"
+    ],
+    "steps": [
+      "Cook the chicken.",
+      "Scramble the egg.",
+      "Add vegetables and rice.",
+      "Add soy sauce.",
+      "Stir-fry and serve."
+    ],
+    "emoji": "🍚"
+  },
+  {
+    "id": 8,
+    "name": "Vegetable Stir-Fry",
+    "category": "Chinese Food",
+    "calories": 320,
+    "time": 18,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      "broccoli",
+      "carrot",
+      "pepper",
+      "mushroom",
+      "soy sauce"
+    ],
+    "steps": [
+      "Chop the vegetables.",
+      "Heat a pan.",
+      "Stir-fry vegetables.",
+      "Add soy sauce.",
+      "Serve hot."
+    ],
+    "emoji": "🥦"
+  },
+  {
+    "id": 9,
+    "name": "Sweet & Sour Chicken",
+    "category": "Chinese Food",
+    "calories": 570,
+    "time": 35,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      "chicken",
+      "pepper",
+      "pineapple",
+      "vinegar",
+      "soy sauce"
+    ],
+    "steps": [
+      "Cook the chicken.",
+      "Add peppers and pineapple.",
+      "Mix the sauce.",
+      "Combine everything.",
+      "Serve with rice."
+    ],
+    "emoji": "🍍"
+  },
+  {
+    "id": 10,
+    "name": "Creamy Tomato Pasta",
+    "category": "Italian Food",
+    "calories": 420,
+    "time": 20,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "milk",
+      "cheese",
+      "garlic"
+    ],
+    "steps": [
+      "Boil the pasta.",
+      "Cook tomato and garlic.",
+      "Add milk and cheese.",
+      "Mix with pasta.",
+      "Serve with herbs."
+    ],
+    "emoji": "🍝"
+  },
+  {
+    "id": 11,
+    "name": "Margherita Pizza",
+    "category": "Italian Food",
+    "calories": 510,
+    "time": 30,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      "flour",
+      "tomato",
+      "cheese",
+      "basil",
+      "olive oil"
+    ],
+    "steps": [
+      "Prepare the dough.",
+      "Add tomato sauce.",
+      "Top with cheese and basil.",
+      "Bake until golden.",
+      "Slice and serve."
+    ],
+    "emoji": "🍕"
+  },
+  {
+    "id": 12,
+    "name": "Garlic Bread",
+    "category": "Italian Food",
+    "calories": 230,
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      "bread",
+      "butter",
+      "garlic",
+      "parsley"
+    ],
+    "steps": [
+      "Mix butter and garlic.",
+      "Spread on bread.",
+      "Add parsley.",
+      "Bake until crisp.",
+      "Serve warm."
+    ],
+    "emoji": "🥖"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Ramen",
+    "category": "Japanese Food",
+    "calories": 530,
+    "time": 30,
+    "difficulty": "Medium",
+    "servings": 2,
+    "ingredients": [
+      "noodles",
+      "chicken",
+      "egg",
+      "mushroom",
+      "soy sauce"
+    ],
+    "steps": [
+      "Cook the chicken.",
+      "Prepare the broth.",
+      "Cook noodles.",
+      "Add toppings.",
+      "Serve hot."
+    ],
+    "emoji": "🍜"
+  },
+  {
+    "id": 14,
+    "name": "Veggie Sushi",
+    "category": "Japanese Food",
+    "calories": 360,
+    "time": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "ingredients": [
+      "rice",
+      "nori",
+      "cucumber",
+      "carrot",
+      "avocado"
+    ],
+    "steps": [
+      "Cook and season rice.",
+      "Prepare vegetables.",
+      "Place rice on nori.",
+      "Add vegetables.",
+      "Roll and slice."
+    ],
+    "emoji": "🍣"
+  },
+  {
+    "id": 15,
+    "name": "Avocado Toast",
+    "category": "Healthy",
+    "calories": 290,
+    "time": 8,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      "bread",
+      "avocado",
+      "egg",
+      "lemon",
+      "pepper"
+    ],
+    "steps": [
+      "Toast the bread.",
+      "Mash avocado with lemon.",
+      "Spread on toast.",
+      "Add egg.",
+      "Season and serve."
+    ],
+    "emoji": "🥑"
+  },
+  {
+    "id": 16,
+    "name": "Greek Salad",
+    "category": "Healthy",
+    "calories": 240,
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "olive",
+      "cheese",
+      "lemon"
+    ],
+    "steps": [
+      "Chop vegetables.",
+      "Add olives and cheese.",
+      "Mix lemon dressing.",
+      "Toss together.",
+      "Serve chilled."
+    ],
+    "emoji": "🥗"
+  },
+  {
+    "id": 17,
+    "name": "Oat Banana Pancakes",
+    "category": "Healthy",
+    "calories": 310,
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      "banana",
+      "oats",
+      "egg",
+      "milk"
+    ],
+    "steps": [
+      "Mash banana.",
+      "Mix with oats, egg and milk.",
+      "Heat a pan.",
+      "Cook both sides.",
+      "Serve with fruit."
+    ],
+    "emoji": "🥞"
+  },
+  {
+    "id": 18,
+    "name": "15-Minute Omelette",
+    "category": "Quick Meals",
+    "calories": 260,
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      "egg",
+      "cheese",
+      "tomato",
+      "onion"
+    ],
+    "steps": [
+      "Beat the eggs.",
+      "Cook onion and tomato.",
+      "Add eggs and cheese.",
+      "Fold the omelette.",
+      "Serve immediately."
+    ],
+    "emoji": "🍳"
+  },
+  {
+    "id": 19,
+    "name": "Cheesy Quesadilla",
+    "category": "Quick Meals",
+    "calories": 430,
+    "time": 12,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      "tortilla",
+      "cheese",
+      "chicken",
+      "pepper"
+    ],
+    "steps": [
+      "Fill the tortilla.",
+      "Fold and heat.",
+      "Cook both sides.",
+      "Cut into triangles.",
+      "Serve with dip."
+    ],
+    "emoji": "🌮"
+  },
+  {
+    "id": 20,
+    "name": "Fruit Yogurt Bowl",
+    "category": "Quick Meals",
+    "calories": 220,
+    "time": 5,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      "yogurt",
+      "banana",
+      "strawberry",
+      "honey"
+    ],
+    "steps": [
+      "Add yogurt to a bowl.",
+      "Slice the fruit.",
+      "Add fruit on top.",
+      "Drizzle with honey.",
+      "Enjoy."
+    ],
+    "emoji": "🍓"
+  },
+  {
+    "id": 21,
+    "name": "Chocolate Mug Cake",
+    "category": "Desserts",
+    "calories": 390,
+    "time": 6,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      "flour",
+      "cocoa",
+      "milk",
+      "sugar",
+      "egg"
+    ],
+    "steps": [
+      "Mix dry ingredients.",
+      "Add milk and egg.",
+      "Stir until smooth.",
+      "Microwave until cooked.",
+      "Cool and enjoy."
+    ],
+    "emoji": "🍫"
+  },
+  {
+    "id": 22,
+    "name": "Fruit Crepes",
+    "category": "Desserts",
+    "calories": 340,
+    "time": 20,
+    "difficulty": "Medium",
+    "servings": 4,
+    "ingredients": [
+      "flour",
+      "milk",
+      "egg",
+      "banana",
+      "strawberry"
+    ],
+    "steps": [
+      "Mix the batter.",
+      "Cook thin crepes.",
+      "Add fruit.",
+      "Fold gently.",
+      "Serve with honey."
+    ],
+    "emoji": "🥞"
+  },
+  {
+    "id": 23,
+    "name": "Tomato Egg Sandwich",
+    "category": "Quick Meals",
+    "calories": 330,
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 1,
+    "ingredients": [
+      "bread",
+      "egg",
+      "tomato",
+      "cheese"
+    ],
+    "steps": [
+      "Cook the egg.",
+      "Toast bread.",
+      "Add tomato and cheese.",
+      "Place the egg on top.",
+      "Close and serve."
+    ],
+    "emoji": "🥪"
+  },
+  {
+    "id": 24,
+    "name": "Creamy Mushroom Pasta",
+    "category": "Italian Food",
+    "calories": 470,
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      "pasta",
+      "mushroom",
+      "milk",
+      "cheese",
+      "garlic"
+    ],
+    "steps": [
+      "Boil pasta.",
+      "Cook mushrooms and garlic.",
+      "Add milk and cheese.",
+      "Mix with pasta.",
+      "Serve warm."
+    ],
+    "emoji": "🍝"
+  }
+]
