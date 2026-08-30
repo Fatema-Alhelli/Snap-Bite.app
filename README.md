@@ -3,7 +3,7 @@
 ### From What You Have to What You Can Make.
 
 **Live App:**  
-🔗 [Open Snap-Bite]((https://snapbite-app-bh.streamlit.app/))
+🔗 [Open Snap-Bite](https://snapbite-app-bh.streamlit.app/)
 
 ---
 
