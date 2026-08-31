@@ -6,3 +6,4 @@ numpy
 ultralytics-opencv-headless==8.4.130
 torch
 torchvision
+requests
