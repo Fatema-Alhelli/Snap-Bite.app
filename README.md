@@ -2,7 +2,8 @@
 
 ### From What You Have to What You Can Make.
 
-**Live App:**  
+**Live App:**
+
 🔗 [Open Snap-Bite](https://snapbite-app-bh.streamlit.app/)
 
 ---
@@ -11,7 +12,7 @@
 
 **Snap-Bite** is an AI-powered recipe assistant that helps users decide what to cook using the ingredients they already have at home.
 
-The user can **take a photo or upload an image of ingredients**, and Snap-Bite uses an object detection model to identify the ingredients in the image. The detected ingredients are then matched with a recipe database to suggest suitable meals.
+Users can **take a photo, upload an image, speak, or type their ingredients**. Snap-Bite identifies or receives the ingredients and matches them with recipes from its recipe database to suggest suitable meals.
 
 > **Make cooking easier, faster, and more inspiring — using what you already have.**
 
@@ -29,24 +30,49 @@ The application helps users:
 - Reduce the time spent deciding what to cook.
 - Make better use of ingredients already at home.
 - Explore a wide range of recipes in one place.
+- Find recipes using different input methods.
 
 ---
 
 ## ✨ Main Features
 
 ### 📸 Snap / Upload
-Take a photo using the camera or upload an image of your ingredients.
+
+Users can choose between:
+
+- 📷 **Camera** — take a photo directly using the device camera.
+- 📁 **Upload** — upload an existing image of ingredients.
 
 ### 🤖 AI Ingredient Detection
-The application uses a YOLO object detection model to identify food ingredients from the image.
 
-### 🍽️ Recipe Recommendations
-Detected ingredients are compared with the recipe database to find suitable recipes.
+Snap-Bite uses a **YOLO object detection model** to identify food ingredients from uploaded or captured images.
+
+### 🍴 Explore Recipes
+
+After ingredients are detected, users can select **Explore Recipes** to see multiple recipes that match the detected ingredients.
+
+The system compares the detected ingredients with the existing recipe database and ranks suitable recipes.
+
+### 🎤 Voice Input
+
+Users can speak their ingredients instead of typing them.
+
+Snap-Bite uses **Deepgram Speech-to-Text** to convert the user's voice into text.
+
+The recognized ingredients are then matched with the existing recipe database to find suitable recipes.
+
+### 📝 Text Input
+
+Users can also type the ingredients they have.
+
+The application searches the existing recipe database and displays recipes that match the entered ingredients.
 
 ### 📚 Recipe Explorer
-Browse the recipe collection and search for recipes by name or ingredients.
+
+Users can browse the recipe collection and search for recipes by name or ingredients.
 
 ### 🔎 Smart Filters
+
 Filter recipes by:
 
 - Category
@@ -57,12 +83,19 @@ Filter recipes by:
 - Number of servings
 
 ### 👥 Servings Calculator
+
 Choose the number of people and ingredient quantities are adjusted automatically.
 
 ### 🎲 Surprise Me
+
 Get a random recipe when you do not know what to cook.
 
+### 🔄 Refresh
+
+A refresh button is available across the main interactive pages to allow users to start a new search or input without refreshing the entire application.
+
 ### 📊 Our Story + Dashboard
+
 View Snap-Bite's story together with simple insights about the recipe database.
 
 ---
@@ -97,15 +130,17 @@ Each recipe can include:
 
 ## 🧠 How It Works
 
+### 📸 Image-Based Recipe Search
+
 ```text
-📸 Image
-   ↓
-🤖 YOLO Model
-   ↓
+📸 Camera / Upload
+        ↓
+🤖 YOLO Object Detection
+        ↓
 🥕 Detected Ingredients
-   ↓
-🔎 Recipe Matching
-   ↓
-🍽️ Recommended Recipes
-   ↓
+        ↓
+🔎 Match with Recipe Database
+        ↓
+🍴 Explore Matching Recipes
+        ↓
 👩🏻‍🍳 Cook & Enjoy
