@@ -6,6 +6,9 @@
 
 🔗 [Open Snap-Bite](https://snapbite-app-bh.streamlit.app/)
 
+**Video Link:**
+🔗 [Open Video](https://youtu.be/pE8nMUTVEYk)
+
 ---
 
 ## 🌿 About Snap-Bite
